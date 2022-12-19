@@ -4,7 +4,8 @@
 
 
 
-![github](https://user-images.githubusercontent.com/109869139/208474330-c91a7407-46e0-4cb0-a5fd-b2beccced9ae.png)
+![github](https://user-images.githubusercontent.com/109869139/208487484-1e26a1ba-c8a0-47ab-9a6c-92b003c78b2a.png)
+
 
 
  A little more about me...
