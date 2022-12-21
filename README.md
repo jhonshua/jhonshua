@@ -4,7 +4,6 @@
 
 
 
-![github](https://user-images.githubusercontent.com/109869139/208487484-1e26a1ba-c8a0-47ab-9a6c-92b003c78b2a.png)
 
 
 
