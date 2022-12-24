@@ -5,7 +5,8 @@
   </a>
 </h1>
 
-  
+
+
   
    ** A little more about me...**
   
@@ -56,4 +57,6 @@ Here, in my profile, you can find some personal projects and other practical cha
 <br>
 
 # &nbsp;👋😁Thank you very much for viewing my profile, have a nice day #
+![pngegg (2)](https://user-images.githubusercontent.com/109869139/209449352-b1939271-776d-4fb0-9047-2ef28005f634.png)
+  ![pngegg](https://user-images.githubusercontent.com/109869139/209449252-0e1d413a-c099-455b-8075-5673793d376d.png)
 
