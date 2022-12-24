@@ -13,8 +13,15 @@
 
  A little more about me...
  
- I'm a dev fullstack who is passionate about making contributing to open-source more approachable, creating technology to elevate people, 
- and building community. Some technologies I enjoy working with include ReactJS(JavaScript, APIs + Markup) .  
+ I’m a full-stack developer and Electronic engineer living in Caracas  ,Venezuela.🌏
+ 
+ I love💗 surfing , water sports and motorcycles .🏍️ 🏖️
+ 
+ I have two dogs 🐶🐕‍🦺 hahahahahaha that's right... I love my dogs.
+ 
+ I am passionate about software development and everything that can be done with just a computer and knowledge
+
+Here, in my profile, you can find some personal projects and other practical challenges.ted in my profile, do not hesitate for a second and contact me 📪 .  
  
   ## 🛠 &nbsp;Tech Stack
  
