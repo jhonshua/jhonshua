@@ -5,7 +5,10 @@
   </a>
 </h1>
 
-
+💪🏼 I like challenges
+⛑️ Always willing to help
+💻 I don't give up easily
+🤓 I want to continue learning
 
 
 
