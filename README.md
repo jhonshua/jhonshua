@@ -52,5 +52,8 @@ Here, in my profile, you can find some personal projects and other practical cha
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonshua)](https://git.io/streak-stats)
 
 
+<br>
+<br>
 
+# &nbsp;👋😁Thank you very much for viewing my profile, have a nice day #
 
