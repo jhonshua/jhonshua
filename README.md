@@ -15,5 +15,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonshua)](https://git.io/streak-stats)
 
 
-![image](https://user-images.githubusercontent.com/109869139/209448533-888e97c0-3b31-4f4c-a76d-8af6fffda9f7.png)
+
 
