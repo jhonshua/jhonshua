@@ -57,6 +57,7 @@ Here, in my profile, you can find some personal projects and other practical cha
 <br>
 
 # &nbsp;👋😁Thank you very much for viewing my profile, have a nice day #
-![pngegg (2)](https://user-images.githubusercontent.com/109869139/209449352-b1939271-776d-4fb0-9047-2ef28005f634.png)
-  ![pngegg](https://user-images.githubusercontent.com/109869139/209449252-0e1d413a-c099-455b-8075-5673793d376d.png)
+
+![e13ef34b5ab75cb6c790102cb249c002](https://user-images.githubusercontent.com/109869139/209449543-7a5a6591-971f-4fa8-91d1-a256dbc8204d.gif)
+
 
