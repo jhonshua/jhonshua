@@ -30,7 +30,7 @@
  
  I am passionate about software development and everything that can be done with just a computer and knowledge
 
-Here, in my profile, you can find some personal projects and other practical challenges.ted in my profile, do not hesitate for a second and contact me 📪 .  
+Here, in my profile, you can find some personal projects and other practical challenges. Don't hesitate for a second and contact me ...📪  
  
   ## 🛠 &nbsp;Tech Stack
  
