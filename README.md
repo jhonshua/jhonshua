@@ -1,68 +1,70 @@
-
 <h1 align="center">
   <a href="https://github.com/jhonshua">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Julio....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Julio+César+Llinas;Electronic+Engineer;Full+Stack+Developer;Software+Architect+%26+DevOps&center=true&size=30&width=600&color=36BCF7">
   </a>
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Caracas,+Venezuela-blue?style=flat-square&logo=googlemaps" alt="Location">
+  <img src="https://img.shields.io/badge/Experience-Senior+Developer-green?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/Remote-Available-blueviolet?style=flat-square" alt="Remote">
+</p>
 
+---
 
-  
-   ** A little more about me...**
-  
-  
-💪🏼 I like challenges
-⛑️ Always willing to help
-💻 I don't give up easily
-🤓 I want to continue learning
+### 👨‍💻 About Me
 
- 
+I am a **Full Stack Software Developer and Electronic Engineer** with a strong focus on software architecture and automation. I specialize in building robust, scalable solutions, bridging the gap between hardware engineering and modern web ecosystems.
 
+* 💪 **Challenges:** I thrive on complex technical problems.
+* ⛑ **Helpful:** Always willing to collaborate and share knowledge.
+* 💻 **Resilient:** I don't give up easily on bugs or architecture hurdles.
+* 🤓 **Continuous Learner:** Passionate about AI, Robotics, and DevOps.
+* 🌊 **Lifestyle:** I love surfing, water sports, and motorcycles. 
+* 🐶 **Dog Lover:** Proud owner of two dogs.
 
+---
 
+### 🛠 Tech Stack
 
- 
- I’m a full-stack developer and Electronic engineer living in Caracas  ,Venezuela.🌏
- 
- I love💗 surfing , water sports and motorcycles .🏍️ 🏖️
- 
- I have two dogs 🐶🐕‍🦺 hahahahahaha that's right... I love my dogs.
- 
- I am passionate about software development and everything that can be done with just a computer and knowledge
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white) |
+| **DevOps & More** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) |
 
-Here, in my profile, you can find some personal projects and other practical challenges. Don't hesitate for a second and contact me ...📪  
- 
-  ## 🛠 &nbsp;Tech Stack
- 
- <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-    <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg">
-    <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
-   <img align="center" alt="Csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-    
-</div>
- 
- ###
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonshua&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonshua&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhonshua&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
 
-<br>
-<br>
+---
 
-# &nbsp;👋😁Thank you very much for viewing my profile, have a nice day #
+### 🚀 Featured Projects
 
-![e13ef34b5ab75cb6c790102cb249c002](https://user-images.githubusercontent.com/109869139/209449543-7a5a6591-971f-4fa8-91d1-a256dbc8204d.gif)
+* **PisoPro:** A PropTech platform integrating WhatsApp CRM, Stripe payments, and Sentry monitoring.
+* **PICTIAX:** An AI-powered project that converts images into G-code for robotic line-art plotting.
 
+---
 
+### 📪 Get in Touch
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <b>Thank you for visiting! Have an amazing day.</b><br>
+  <img src="https://user-images.githubusercontent.com/109869139/209449543-7a5a6591-971f-4fa8-91d1-a256dbc8204d.gif" width="300">
+</p>
