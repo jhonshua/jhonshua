@@ -56,15 +56,15 @@ I am a **Full Stack Software Developer and Electronic Engineer** with a strong f
 ### 📪 Get in Touch
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/julio-cesar-llinas-ba65a6127/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:julio.llinas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
   <b>Thank you for visiting! Have an amazing day.</b><br>
-  <img src="https://user-images.githubusercontent.com/109869139/209449543-7a5a6591-971f-4fa8-91d1-a256dbc8204d.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/109869139/209449543-7a5a6591-971f-4fa8-91d1-a256dbc8204d.gif" width="600">
 </p>
